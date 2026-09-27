@@ -16,7 +16,7 @@
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "J1"
-				(at 3.556 12.954 0)
+				(at 0.635 12.7 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -26,7 +26,7 @@
 				)
 			)
 			(property "Value" "Conn_01x08_Pin"
-				(at 9.652 10.414 0)
+				(at 0.635 10.16 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -35,7 +35,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
+			(property "Footprint" "Connector:Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -286,106 +286,16 @@
 					)
 				)
 				(pin passive line
-					(at 5.08 7.62 180)
+					(at 5.08 -10.16 180)
 					(length 3.81)
-					(name "GND"
+					(name "BLK"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 5.08 180)
-					(length 3.81)
-					(name "VCC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 2.54 180)
-					(length 3.81)
-					(name "SCL"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 3.81)
-					(name "SDA"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 -2.54 180)
-					(length 3.81)
-					(name "RES"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 -5.08 180)
-					(length 3.81)
-					(name "DC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
+					(number "BLK"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -403,7 +313,7 @@
 							)
 						)
 					)
-					(number "7"
+					(number "CS"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -412,16 +322,106 @@
 					)
 				)
 				(pin passive line
-					(at 5.08 -10.16 180)
+					(at 5.08 -5.08 180)
 					(length 3.81)
-					(name "BLK"
+					(name "DC"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "8"
+					(number "DC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 7.62 180)
+					(length 3.81)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -2.54 180)
+					(length 3.81)
+					(name "RES"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "RES"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 2.54 180)
+					(length 3.81)
+					(name "SCL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "SCL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "SDA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "SDA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 5.08 180)
+					(length 3.81)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "VCC"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -14677,7 +14677,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
+		(property "Footprint" "Connector:Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical"
 			(at 261.62 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -14710,28 +14710,28 @@
 				)
 			)
 		)
-		(pin "6"
+		(pin "VCC"
 			(uuid "c688c7c6-f5c0-4108-a14d-5bafc5933161")
 		)
-		(pin "8"
+		(pin "RES"
 			(uuid "99398748-84ff-4e68-8005-af4c8e277fa2")
 		)
-		(pin "7"
+		(pin "DC"
 			(uuid "ad42ebe0-196b-4b20-a264-a03fb9f00df0")
 		)
-		(pin "2"
+		(pin "SCL"
 			(uuid "1a73b813-d4d7-46e6-a704-fb3fe2486d21")
 		)
-		(pin "1"
+		(pin "SDA"
 			(uuid "44cd4f87-f88e-4e6f-b541-f35e7dc72a9c")
 		)
-		(pin "5"
+		(pin "CS"
 			(uuid "7c1cf9ff-a842-497f-869c-7f87ba951842")
 		)
-		(pin "3"
+		(pin "GND"
 			(uuid "0cb64850-9809-4201-8697-66d26ec42482")
 		)
-		(pin "4"
+		(pin "BLK"
 			(uuid "71f38394-d647-4a41-9b43-92c8c382fe63")
 		)
 		(instances
@@ -21512,7 +21512,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_2u"
+		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_2u"
 			(at 281.94 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -31367,7 +31367,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_2.25u"
+		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_2.25u"
 			(at 281.94 133.35 0)
 			(hide yes)
 			(show_name no)
