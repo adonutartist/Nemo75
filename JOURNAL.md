@@ -26,3 +26,17 @@ COMPLETED THE SCHEMATIC!!!! yes boiii i made a frikin duplex matrix the japanese
   > <img width="3058" height="1794" alt="image" src="https://github.com/user-attachments/assets/3a11187a-e547-43b6-928e-bb03171aa981" /><img width="4096" height="3951" alt="image" src="https://github.com/user-attachments/assets/70ec9a6f-0088-4521-82e8-31508a23a6e6" />
 
 * **Total time spent:** 3 hours 55 minutes
+
+# DEVLOG #3
+
+* **Date:** 26 September 10 PM to 27 September 2:18 AM 2026
+
+* **Overview:**
+Started working on the PCB first made a edge cuts layer then corrected the mx cherry step file to have hotswap on back layer then also added key step to the same footprint, also worked on some arranging the layout tho had a headache so couldn't do much but yeh its something ;-;
+
+* **[Lapse Recording](https://lapse.hackclub.com/timelapse/wgO9aNCkQy92)**
+
+* **Images:**
+  > <img width="1920" height="1047" alt="Screenshot_2026-09-27_02-13-06" src="https://github.com/user-attachments/assets/8d6f2e29-d6e5-424f-94b2-979b3c335436" /><img width="1920" height="1047" alt="Screenshot_2026-09-27_02-13-52" src="https://github.com/user-attachments/assets/be64c9c7-ae40-47e6-99df-b806df8ad1bd" />
+
+* **Total time spent:** 3 hours 19 minutes
