@@ -40,3 +40,17 @@ Started working on the PCB first made a edge cuts layer then corrected the mx ch
   > <img width="1920" height="1047" alt="Screenshot_2026-09-27_02-13-06" src="https://github.com/user-attachments/assets/8d6f2e29-d6e5-424f-94b2-979b3c335436" /><img width="1920" height="1047" alt="Screenshot_2026-09-27_02-13-52" src="https://github.com/user-attachments/assets/be64c9c7-ae40-47e6-99df-b806df8ad1bd" />
 
 * **Total time spent:** 3 hours 19 minutes
+
+# DEVLOG #4
+
+* **Date:** 27 September 11 PM to 28 September 3:10 AM 2026
+
+* **Overview:**
+Today i completed the layout of the pcb since now i have finalised my keycaps set i could easily make the layout... also added 3d models to all the parts so that its gud enuff for submission! tomorrow will start routing... also increased board size a lil to accomodate my screen encoders and my macrokeys...
+
+* **[Lapse Recording](https://lapse.hackclub.com/timelapse/0LUvjK1yVjUb)**
+
+* **Images:**
+  > <img width="1567" height="772" alt="Screenshot_2026-09-28_03-02-27" src="https://github.com/user-attachments/assets/b6cdc2cf-fe01-494a-af59-386adbe07155" /><img width="1675" height="763" alt="Screenshot_2026-09-28_03-03-11" src="https://github.com/user-attachments/assets/e63765bb-e2dc-49a8-88ea-c3a96f8f4476" /><img width="1627" height="766" alt="Screenshot_2026-09-28_03-04-44" src="https://github.com/user-attachments/assets/7a47b37d-6f83-41f3-b3dd-b6bd99f590d7" />
+
+* **Total time spent:** 3 hours 24 minutes
