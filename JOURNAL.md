@@ -54,3 +54,17 @@ Today i completed the layout of the pcb since now i have finalised my keycaps se
   > <img width="1567" height="772" alt="Screenshot_2026-09-28_03-02-27" src="https://github.com/user-attachments/assets/b6cdc2cf-fe01-494a-af59-386adbe07155" /><img width="1675" height="763" alt="Screenshot_2026-09-28_03-03-11" src="https://github.com/user-attachments/assets/e63765bb-e2dc-49a8-88ea-c3a96f8f4476" /><img width="1627" height="766" alt="Screenshot_2026-09-28_03-04-44" src="https://github.com/user-attachments/assets/7a47b37d-6f83-41f3-b3dd-b6bd99f590d7" />
 
 * **Total time spent:** 3 hours 24 minutes
+
+# DEVLOG #5
+
+* **Date:** 28 September 11 PM to 29 September 2:06 AM 2026
+
+* **Overview:**
+Did PCB routing today ;-; yeh i get tired easily when i do routing so it will be a short devlog today ;-; anyways cuz of my staggered layout routing was a nightmare :] and i ended up using way too many vias ;-; it should be fine tho hopefully :p will send this in #fabricate channel on slack and hope that liam or someone else approves of it ;-; and doesnt frikin say yeh reroute the whole thing cuz i am gonna crash out ;-;
+
+* **[Lapse Recording](https://lapse.hackclub.com/timelapse/s9xvx06w3m7d)**
+
+* **Images:**
+  > <img width="1587" height="735" alt="Screenshot_2026-09-29_02-03-00" src="https://github.com/user-attachments/assets/576e38e3-a680-4170-85d1-93d071b15055" />
+
+* **Total time spent:** 2 hours 44 minutes
